@@ -1,0 +1,6 @@
+interface:
+  display_name: "SLR Screening and Ranking"
+  short_description: "Screen abstracts and explain provisional paper rankings"
+  default_prompt: "Use $slr-screening-ranking to screen this verified SLR candidate set using our agreed protocol."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Locally stored course/reference PDFs and retrieved full text
+/2007_Guidelines for performing SLR in SE.pdf
+/2026_2027_CMES_L05_SLR.pdf
+/SLR_examples/*.pdf
+/papers/full-text/*.pdf
+/report/**/doc/*.pdf
+
+# Local-only links and settings
+/private-links.md
+
+# LaTeX build output
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.log
+*.out
+*.synctex.gz
+*.toc

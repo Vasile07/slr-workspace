@@ -1,0 +1,6 @@
+interface:
+  display_name: "SLR Verified Workbook Entry"
+  short_description: "Record team-approved SLR data in the workbook"
+  default_prompt: "Use $slr-verified-workbook-entry to enter this team-approved SLR batch into the specified sheet."
+policy:
+  allow_implicit_invocation: true

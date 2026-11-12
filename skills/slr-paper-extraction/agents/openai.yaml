@@ -1,0 +1,4 @@
+interface:
+  display_name: "SLR Paper Extraction"
+  short_description: "Extract evidence from selected SLR papers"
+  default_prompt: "Use $slr-paper-extraction to extract a selected paper using the agreed characteristics."
